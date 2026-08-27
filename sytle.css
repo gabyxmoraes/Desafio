@@ -1,0 +1,29 @@
+body {
+    background-color: #dff5df;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #164d16;
+}
+
+.caixa {
+    background-color: white;
+    width: 70%;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px gray;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 18px;
+}
+
+img {
+    width: 300px;
+    border-radius: 15px;
+    margin: 20px;
+}
